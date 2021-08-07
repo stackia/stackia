@@ -1,1 +1,1 @@
-[![Stackia's GitHub stats](https://github-readme-stats.stackia.me/api?username=stackia&include_all_commits=true&count_org=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffc537)](https://github.com/stackia/github-readme-stats)
+[![Stackia's GitHub stats](https://github-readme-stats.stackia.me/api?username=stackia&include_all_commits=true&count_org=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/stackia/github-readme-stats)
